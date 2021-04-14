@@ -1,0 +1,237 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+p,h1,h2,h3,h4,h5,h6{
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+
+/* header section start css */
+
+.logo span a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    font-size: 30pt;
+    letter-spacing: 3px;
+}
+
+
+.logo span {
+    text-transform: uppercase;
+    line-height: 45px;
+    font-family: 'Inconsolata', monospace;
+}
+.header ul{
+    float: right;
+}
+.header ul li{
+    display: inline-block;
+}
+.header ul li a {
+    display: block;
+    text-decoration: none;
+    padding: 0px 26px;
+    color: #818181;
+    line-height: 45px;
+    text-transform: uppercase;
+    font-size: 14pt;
+}
+
+/* header section end css */
+
+
+/* banner section start css */
+
+.banner{
+    background: url(../img/banner.png) no-repeat center center;
+    background-size: cover;
+    padding: 200px;
+}
+
+/* banner section end css */
+
+
+/* diary section start css */
+
+.diary-section {
+    padding: 80px 0px;
+}
+.land span a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14pt;
+    color: #b4ad9e;
+}
+
+
+.diary-section h1 {
+    font-size: 30pt;
+    color: #626262;
+    padding: 30px 0px;
+}
+
+.diary-section p{
+    color: #626262;
+    text-align: justify;
+}
+
+.diary-section .aa a{
+    color: #cbc6bc;
+    font-size: 14pt;
+    text-decoration: none;
+}
+.aa{
+    padding-top: 45px;
+}
+
+/* diary section end css */
+
+
+/* life style section start css */
+
+
+.lifestyle-section{
+    padding-bottom: 100px;
+}
+.lifestyle-section .bb {
+    color: #cbc6bc;
+    font-size: 14pt;
+    padding-top: 30px;
+    margin: 0px;
+}
+.lifestyle-section h1{
+    color: #626262;
+    font-size: 30pt;
+}
+
+.lifestyle-section p{
+    color: #626262;
+    text-align: justify;
+    padding: 20px 0px;
+}
+
+.le{
+    float: left;
+}
+.ri{
+    float: right;
+}
+
+/* life style  section end css */
+
+
+/* nesw letter section css start */
+
+.newsletter-section{
+    background-color: #F0F0F0;
+    padding: 100px 0px;
+    text-align: center;
+}
+.newsletter-section h1 {
+    color: #626262;
+    font-size: 30pt;
+    margin-bottom: 72px;
+}
+.newsletter-section .email {
+    border-bottom: 2px solid #626262 !important;
+    border: none;
+    width: 440px;
+    background: transparent;
+}
+button {
+    border: none;
+    font-size: 35px;
+    font-weight: 900;
+    margin-left: -34px;
+    background: transparent;
+    color: #626262;
+}
+
+/* nesw letter section css end */
+
+.suc{
+    padding-top: 133px;
+}
+
+
+/* button section css start */
+
+.button-section{
+    text-align: center;
+    padding-bottom: 100px;
+}
+.button-section .button {
+    padding: 18px 28px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* button section css end */
+
+
+/* fotter section css start */
+
+.fotter-section {
+    padding: 20px 0px;
+    background-color: #F0F0F0;
+}
+.fotter-section .p {
+    float: left;
+    padding-right: 15px;
+    color: #7B7B7B;
+    font-size: 14pt;
+}
+.fotter-section span{
+    color: #7B7B7B;
+}
+p.follow {
+    display: inline-block;
+}
+
+.follow a {
+    text-decoration: none;
+    font-size: 14pt;
+    color: #7B7B7B;
+    margin-left: 179px;
+}
+.socical-menu{
+    float: right;
+}
+.socical-menu li{
+    display: inline-block;
+}
+.margin{
+    margin:0px 5px;
+}
+.socical-menu li a{
+    display:block ;
+    text-decoration: none;
+    color:#7B7B7B;
+    font-size: 14pt;
+    
+}
+.ff{
+    margin-top: 20px;
+}
+
+/* fotter section css end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
